@@ -8,7 +8,7 @@ Hi there, I'm  `Hellen Kuttery`
 
 I'm glad to see you ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=hellenkuttery&theme=highcontrast&show_icons=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellenkuttery&show_icons=true&theme=tokyonight)
 
 #### _I am full stack developer._  I like coding front end backend. Coding is fascinating for me.
 
