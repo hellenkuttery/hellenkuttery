@@ -1,4 +1,4 @@
-![Profile banner](https://i.imgur.com/VNP2tTx.gif](https://www.shutterstock.com/image-vector/horizontal-banner-hands-typing-on-260nw-1176860761.jpg)
+![Profile banner](https://www.shutterstock.com/image-vector/horizontal-banner-hands-typing-on-260nw-1176860761.jpg)
 Hi there, I'm  `Hellen Kuttery`
 
 
