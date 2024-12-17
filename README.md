@@ -37,5 +37,3 @@ Hi there, I'm  `Hellen Kuttery`
 
 
 
-![ceder women](https://insights.dice.com/wp-content/uploads/2015/10/Screen-Shot-2015-10-06-at-11.15.24-AM.png)
-
