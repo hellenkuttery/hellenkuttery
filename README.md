@@ -6,7 +6,7 @@ Hi there, I'm  `Hellen Kuttery`
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](link) 
 [![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](link) 
 
-I'm glad to see you ![](https://api.visitorbadge.io/api/VisitorHit?user=hellenkuttery&repo=github-visitors-badge&countColor=%237B1E7A)
+![](https://api.visitorbadge.io/api/VisitorHit?user=hellenkuttery&repo=github-visitors-badge&countColor=%237B1E7A)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hellenkuttery&show_icons=true&theme=gruvbox)
 
